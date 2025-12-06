@@ -51,7 +51,7 @@ Telegram-бот на базе **aiogram 3** и **OpenAI**, который пом
 - [aiogram 3](https://docs.aiogram.dev/)
 - [OpenAI API]
 
-<img width="588" height="852" alt="image" src="https://github.com/user-attachments/assets/d8cfbe31-46b0-43e7-b3b3-1428b9fdea5b" />
+<img width="586" height="898" alt="image" src="https://github.com/user-attachments/assets/e2df54f8-5c2c-4f94-a70a-815a915658ac" />
 
 
 ## Лицензия
